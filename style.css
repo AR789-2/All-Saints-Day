@@ -1,0 +1,24 @@
+body {
+    background-image: url("tree.gif");
+    background-size: 1500px;
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    position: fixed;
+}
+
+h1 {
+    font-family: "Barlow Condensed", serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 250px;
+    text-align: center;
+    color: rgb(255, 0, 0);
+
+    width: 100vw;
+    height: 100vh;
+    border: 0px solid blue;
+    padding: 70px, 0;
+    margin: 20px, 0;
+    position: absolute;
+
+    }
