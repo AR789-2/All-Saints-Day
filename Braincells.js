@@ -15,7 +15,7 @@ if (IIASD) {
     document.getElementById("x").style.color = 'Green';
 }
 else {
-    IIASD = 'NO'
+    IIASD = 'POSSIBLY'
     document.getElementById("x").style.color = 'Red';
 }
 
